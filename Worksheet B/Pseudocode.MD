@@ -22,6 +22,8 @@ Allow User Access
 
 Else if password = False
 
+Read TruePassword
+
 If password has
 a matching letter to TruePassword add
 +1 to χ
@@ -33,4 +35,4 @@ End if
 ![FlowChart](FalloutHack.jpg)
 
 
-Read TruePassword
+
